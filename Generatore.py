@@ -42,7 +42,7 @@ def genera():
             stampa(array)
             break
         elif scelta == "3":
-            array = ['Coming soon']
+            array = ['arowana123:csikohal', 'CarolinePetheri:csacpb', 'malcolm31337:chestnut99', 'newmanbrian:courtney03', 'mgraziadalpra:gionni62']
             stampa(array)
             break
         elif scelta == "4":
