@@ -15,16 +15,6 @@ def banner():
                                                               __/ |                                            
                                                              |___/
 '''
-def login() :
-    print "Ciao, Registrati Qua!"
-    Username = raw_input("Username")
-    Password = raw_input("Password")
-    if Password == "123qweasdzxc456" :
-        print "Accesso Eseguito!"
-
-
-
-
 
 
 
